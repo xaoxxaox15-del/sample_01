@@ -426,4 +426,14 @@ footer {
         grid-template-columns:  1fr;
         gap: 10px;
     }
+    
+    .area {
+        padding: 20px;
+        min-height: 80px;
+    }
+
+    .header { grid-area: header; }
+    .nav { grid-area: nav; }
+    .main { grid-area: main; min-height: 200px; }
+    .footer { grid-area: footer; }
 }
