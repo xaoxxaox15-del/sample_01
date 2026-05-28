@@ -412,3 +412,18 @@ footer {
         font-size: 14px;
     }
 }
+
+@media screen and (max-width: 768px) {
+    body {
+        margin: 0;
+        font-family: sans-serif;
+        display: grid;
+        grid-template-areas:
+        "header"
+        "nav"
+        "main"
+        "footer";
+        grid-template-columns:  1fr;
+        gap: 10px;
+    }
+}
