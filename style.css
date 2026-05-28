@@ -108,7 +108,7 @@ main {
     width: 100%;
     height: 100px;
 
-    background-image: url(img/ライン１.png);
+    background-image: url(img/line01.png);
     background-repeat: repeat-x;
     background-size: auto 100%;
 
@@ -125,7 +125,7 @@ main {
     width: 100%;
     height: 100px;
 
-    background-image: url(img/ライン１.png);
+    background-image: url(img/line01.png);
     background-repeat: repeat-x;
     background-size: auto 100%;
 
@@ -214,7 +214,7 @@ main {
         width: 100%;
         height: 150px;
 
-        background-image: url(img/ライン３.png);
+        background-image: url(img/line03.png);
 
         background-repeat: repeat-x;
 
@@ -265,7 +265,7 @@ main {
         width: 100%;
         height: 100px;
 
-        background-image: url(img/ライン１.png);
+        background-image: url(img/line01.png);
 
         background-repeat: repeat-x;
 
@@ -326,7 +326,7 @@ main {
         width: 100%;
         height: 60px;
 
-        background-image: url(img/ライン４.png);
+        background-image: url(img/line04.png);
 
         background-repeat: repeat-x;
 
@@ -397,7 +397,7 @@ footer {
     width: 100%;
     height: 395px;
     padding-block: 16px;
-    background: url(img/フッダー２.jpg) no-repeat center/cover rgb(255, 227, 247);
+    background: url(img/fooder.jpg) no-repeat center/cover rgb(255, 227, 247);
     display: flex;
     justify-content: end;
     flex-direction: column;
